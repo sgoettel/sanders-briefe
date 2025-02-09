@@ -1,4 +1,6 @@
-#  TEI-XML dataset of the edition of Daniel Sanders' correspondence 
+#  TEI-XML dataset of the edition of Daniel Sanders' correspondence
+
+[![DOI](https://zenodo.org/badge/879681297.svg)](https://doi.org/10.5281/zenodo.14011967)
 
 This repository contains a TEI-XML encoded collection of letters to and from lexicographer and democrat [Daniel Sanders](https://en.wikipedia.org/wiki/Daniel_Sanders_(lexicographer)) (1819–1897). The letters offer insights into the intellectual landscape, personal exchanges, and everyday writing of the 19th century, reflecting Sanders’ contributions to German lexicography, orthography, general linguistics, and his involvement with the events of the 1848 Revolution.
 
