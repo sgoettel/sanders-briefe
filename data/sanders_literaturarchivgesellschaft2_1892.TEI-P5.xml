@@ -203,14 +203,14 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1892-02-28"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/10850-9">Literaturarchiv-Gesellschaft (Berlin)</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1892-02-28"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/10850-9">Literaturarchiv-Gesellschaft (Berlin)</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text><body>
 <pb facs="#f0001" n="[1r]"/>
 <div type="letter" n="1"> <note place="mTop">Das Angebot scheint mir annehmbar, weñ keine Bedingungen daran         geknüpft werden – volles <unclear reason="illegible">Geschenk</unclear>, zu seiner Benutzung nach dem         Tod des Schenkenden. Probesendung finde ich überflüssig. Einen <gap reason="illegible" unit="words" quantity="1"/><lb/>
 <gap reason="illegible" unit="words" quantity="1"/>   Bestimmungen des <gap reason="illegible" unit="words" quantity="1"/> erforderlich. 29/2. <gap reason="insignificant" unit="words" quantity="1"/></note>              <space dim="vertical"/><lb/>
 <gap reason="insignificant" unit="lines" quantity="3"/><lb/>
-<head>Der <orgName ref="http://d-nb.info/gnd/10850-9">Literaturarchiv Gesellschaft</orgName> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName></head><lb/>
+<head>Der <orgName ref="http://d-nb.info/gnd/10850-9">Literaturarchiv Gesellschaft</orgName> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName></head><lb/>
 <space dim="vertical"/><lb/>
 <p>In erster Reihe spreche ich meine hohe Freude über die<lb/>
 Gründung der <orgName ref="http://d-nb.info/gnd/10850-9">Gesellschaft</orgName> aus . Wie lebhaft gerade mich diese Nachricht berührt,<lb/>

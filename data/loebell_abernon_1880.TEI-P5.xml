@@ -190,11 +190,11 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName><date when="1880-01-17"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11886243X">D'Abernon, Edgar Vincent</persName><placeName ref="http://www.geonames.org/2643743">London</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName><date when="1880-01-17"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11886243X">D'Abernon, Edgar Vincent</persName><placeName ref="http://www.geonames.org/2643743">London</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
-<body>              <div type="letter" n="1">                  <gap reason="insignificant"/>                  <head><placeName ref="http://www.geonames.org/6547383">Berlin</placeName>. S.W<supplied>.</supplied> Teltower <choice><abbr>Str<supplied>.</supplied></abbr><expan>Straße</expan></choice> 49 II – <date>17. January 1880</date>.</head><lb/>
+<body>              <div type="letter" n="1">                  <gap reason="insignificant"/>                  <head><placeName ref="http://www.geonames.org/2950159">Berlin</placeName>. S.W<supplied>.</supplied> Teltower <choice><abbr>Str<supplied>.</supplied></abbr><expan>Straße</expan></choice> 49 II – <date>17. January 1880</date>.</head><lb/>
 <p>Your friendly lines, my dear Sir, which you have adres-<lb/>
 sed to me the 8<supplied>th</supplied> January I have received the 15<supplied>th</supplied> January<lb/>
 and <subst><del rendition="#s">I have</del><add place="superlinear">I have</add></subst> send immediately the enclosed letter to<lb/>
@@ -216,7 +216,7 @@ of it. Perhaps your <orgName ref="http://d-nb.info/gnd/1065501293">publisher</or
 to him for review. The adress is<lb/>
 To the editor of the „Archiv für <add place="superlinear">das Studium der</add> neueren Sprachen“<note type="editorial"><bibl>Archiv für das Studium der neueren Sprachen und Literaturen. Herausgegeben von Ludwig Herrig et al. Braunschweig, Berlin 1846–Gegenwart.</bibl></note><lb/>
 Professor <persName ref="http://d-nb.info/gnd/11674569X">Herrig</persName></p><lb/>
-<p><hi rendition="#et2"><hi rendition="#u"><choice><abbr>Gr.</abbr><expan>Groß</expan></choice> Lichterfelde</hi> bei <placeName ref="http://www.geonames.org/6547383">Berlin</placeName><lb/>
+<p><hi rendition="#et2"><hi rendition="#u"><choice><abbr>Gr.</abbr><expan>Groß</expan></choice> Lichterfelde</hi> bei <placeName ref="http://www.geonames.org/2950159">Berlin</placeName><lb/>
 Haupt Cadetten Anstalt.</hi></p>                  <p>But I am too ready to intermediate the deliver<lb/>
 of the Book, Professor <persName ref="http://d-nb.info/gnd/11674569X">Herrig</persName> being an acquain-<lb/>
 tance of mine.</p><lb/>

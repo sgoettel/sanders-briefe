@@ -190,14 +190,14 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1880-03-01"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von </persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1880-03-01"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von </persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
 <body>              <div type="letter" n="1">                  <note place="mTop"><hi rendition="#right"><foreign xml:lang="eng"><date>1880.<lb/>
 March 3.</date><lb/>
 <persName ref="http://d-nb.info/gnd/119242044">Sanders</persName></foreign></hi></note><lb/>
-<head>Herrn Oberst <persName xml:id="HL" ref="http://d-nb.info/gnd/142684465">von Löbell</persName> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName><supplied>.</supplied></head><lb/>
+<head>Herrn Oberst <persName xml:id="HL" ref="http://d-nb.info/gnd/142684465">von Löbell</persName> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName><supplied>.</supplied></head><lb/>
 <space dim="vertical"/>                  <opener><salute>Hoch verehrter Oberst,</salute></opener><lb/>
 <space dim="vertical"/>                  <p>Verzeihen Sie gütigst, wenn ich auch diesmal wieder<lb/>
 Ihre freundliche Vermittlung für eine Herrn Lt<supplied>.</supplied> <persName ref="http://d-nb.info/gnd/11886243X">Vincent</persName><lb/>

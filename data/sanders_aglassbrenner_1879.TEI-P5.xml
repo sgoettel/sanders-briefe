@@ -193,7 +193,7 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1879-03-26"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/116654430">Glaßbrenner, Adele</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1879-03-26"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/116654430">Glaßbrenner, Adele</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text><body>
 <pb facs="#f0001" n="[1r]"/>
@@ -232,7 +232,7 @@ berathen. Ich brauchen Ihnen nicht erst zu sagen, wie lebens-<lb/>
 gern ich Ihnen dabei, so weit es irgend in meinen Kräften<lb/>
 steht, behilflich wäre. Möglich wäre es ja, daß ich – da<lb/>
 die Winterkälte nur zu sehr ans Zim̃er bañt, – in wärmeren<lb/>
-Tagen nach <placeName ref="http://www.geonames.org/6547383">Berlin</placeName> kom̃en; nur fehlt zu einem längeren Aufent-<lb/>
+Tagen nach <placeName ref="http://www.geonames.org/2950159">Berlin</placeName> kom̃en; nur fehlt zu einem längeren Aufent-<lb/>
 halt dem Überbeschäftigten die Zeit <choice><abbr>u.</abbr><expan>und</expan></choice> ein kurzer Aufenthalt<lb/>
 ist bei der Menge von Verwandten <choice><abbr>u</abbr><expan>und</expan></choice> Freunden und dem<lb/>
 doch am Ende auch nicht ganz abzuweisenden Sehenswürdig-<lb/>

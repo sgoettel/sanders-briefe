@@ -190,7 +190,7 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName><date when="1878-01-05"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName><date when="1878-01-05"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
@@ -218,7 +218,7 @@ treffende Ihnen zu sam̃eln.</p><lb/>
 würde mich dessen sehr<lb/>
 freuen <salute>als Ihr treu theilnehmender<lb/>
 </salute>                      <signed><hi rendition="#aq"><persName ref="http://d-nb.info/gnd/11865103X">Berthold Auerbach</persName></hi>.</signed><lb/>
-<dateline><hi rendition="#aq"><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></hi><supplied>,</supplied> 5. <choice><abbr>Jan.</abbr><expan>Januar</expan></choice> 78.</dateline></closer><lb/>
+<dateline><hi rendition="#aq"><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></hi><supplied>,</supplied> 5. <choice><abbr>Jan.</abbr><expan>Januar</expan></choice> 78.</dateline></closer><lb/>
 </div>   <space dim="vertical"/>              <div xml:id="EA" type="letter">                  <opener><salute>Hochverehrter Herr Professor,</salute></opener><lb/>
 <p>Gestatten Sie auch mir Ihrem Anrufe<lb/>
 in der National-Zeitung folgend Sie auf<lb/>

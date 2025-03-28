@@ -198,7 +198,7 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1883-10-18"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11613612X">Berliner, Abraham</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1883-10-18"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11613612X">Berliner, Abraham</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
@@ -232,7 +232,7 @@ nicht angeführten Stellen aus <persName ref="http://d-nb.info/gnd/118540238">Go
 Ich weiß nicht, ob Ihnen meine in diesem Jahr in 5. und vor Kurzem (zu Michaelis)<lb/>
 in unveränderter 6. Auflage erschienenes<lb/>
 <hi rendition="#et">„Lehrbuch der deutschen Sprache für Schulen. (Mit Beispielen und Übungs-</hi><lb/>
-aufgaben) in 3 Stufen. <placeName ref="http://www.geonames.org/6547383"><choice><abbr>Berl.</abbr><expan>Berlin</expan></choice></placeName> <orgName ref="http://d-nb.info/gnd/4074003-1">Langenscheidt’schen Verlagsbuchhandlung</orgName>“<note type="editorial"><bibl>Sanders, Daniel: Lehrbuch der deutschen Sprache für Schulen (Mit Beispielen und Übungsaufgaben). Berlin 1877.</bibl> <ref target="https://books.google.de/books?id=QGsVAAAAYAAJ">Online verfügbar: GoogleBooks, abgerufen am 15.01.2019.</ref></note><lb/>
+aufgaben) in 3 Stufen. <placeName ref="http://www.geonames.org/2950159"><choice><abbr>Berl.</abbr><expan>Berlin</expan></choice></placeName> <orgName ref="http://d-nb.info/gnd/4074003-1">Langenscheidt’schen Verlagsbuchhandlung</orgName>“<note type="editorial"><bibl>Sanders, Daniel: Lehrbuch der deutschen Sprache für Schulen (Mit Beispielen und Übungsaufgaben). Berlin 1877.</bibl> <ref target="https://books.google.de/books?id=QGsVAAAAYAAJ">Online verfügbar: GoogleBooks, abgerufen am 15.01.2019.</ref></note><lb/>
 <fw type="catch" place="bottom">zu</fw>
 <pb facs="#f0002" n="[1v]"/>
 zu Gesicht gekom̃en ist. Ich hoffe, daß, weñ Sie dies Buch einer prüfenden Durchsicht<lb/>

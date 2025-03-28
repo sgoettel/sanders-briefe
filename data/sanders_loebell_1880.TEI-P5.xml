@@ -190,14 +190,14 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1880-01-16"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von </persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1880-01-16"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von </persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
 <body>              <div type="letter" n="1">                  <note place="mTop"><hi rendition="#right"><foreign xml:lang="eng"><date>1880.<lb/>
 <choice><abbr>Jan<supplied>.</supplied></abbr><expan>January</expan></choice> 19<supplied>.</supplied>?</date><lb/>
 <persName ref="http://d-nb.info/gnd/119242044">Sanders</persName></foreign></hi></note><lb/>
-<space dim="vertical"/>                  <head>Herrn Oberst <persName xml:id="HL" ref="http://d-nb.info/gnd/142684465">von Löbell</persName> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName>.</head><lb/>
+<space dim="vertical"/>                  <head>Herrn Oberst <persName xml:id="HL" ref="http://d-nb.info/gnd/142684465">von Löbell</persName> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>.</head><lb/>
 <space dim="vertical"/>                  <opener><salute>Hochverehrter Oberst,</salute></opener><lb/>
 <space dim="vertical"/>                  <p>Grade im Begriff, Ihnen mit einigen Zeilen das beifolgende<lb/>
 Schreiben von Dr. <persName ref="http://d-nb.info/gnd/118682059">Engel</persName> zur Kenntnisnahme mitzutheilen, erhalte<lb/>
@@ -232,7 +232,7 @@ Deutschland sich für das Studium des <hi rendition="#u">Neu</hi>griechischen in
 blikum immer noch ziemlich dünn gesäet ist, einen geeigneten Verleger<lb/>
 zu finden und würde für die deutsche Bearbeitung mich sicherlich wohl<lb/>
 auch des Rathes und der Unterstützung durch den mir befreundeten griechi-<lb/>
-schen Gesandten in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName> (<persName ref="http://d-nb.info/gnd/119153262"><choice><abbr>A.</abbr><expan>Alexandros</expan></choice> Rangabé</persName>) erfreuen dürfen. Ich bemerke<lb/>
+schen Gesandten in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName> (<persName ref="http://d-nb.info/gnd/119153262"><choice><abbr>A.</abbr><expan>Alexandros</expan></choice> Rangabé</persName>) erfreuen dürfen. Ich bemerke<lb/>
 jedenfalls schon jetzt, daß ich in den 4. Theil mit Rücksicht auf <hi rendition="#u">deutsche</hi><lb/>
 Verhältnisse einige Zusätze für wünschenswerth ansehe, nämlich aus<lb/>
 <persName ref="http://d-nb.info/gnd/118572121">Lessing</persName>'s Nathan<note type="editorial"><bibl>Lessing, Gotthold Ephraim: Nathan der Weise: Ein dramatisches Gedicht, in fünf Aufzügen. Berlin 1779.</bibl> <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074415-1">Online verfügbar: BSB digital, abgerufen am 18.03.2019.</ref></note> <subst><del rendition="#ow">die</del><add place="across">den</add></subst> 7. Auftri<add place="intralinear" hand="#HL">tt</add> des 3. Aufzugs (die Erzählung von den 3 Ringen<lb/>

@@ -202,7 +202,7 @@
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
-<body>                 <div type="letter" n="1">                     <head>Hr<supplied>.</supplied> <hi rendition="#aq"><persName ref=" http://d-nb.info/gnd/11865103X">Berthold Auerbach</persName></hi> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName><supplied>.</supplied></head><lb/>
+<body>                 <div type="letter" n="1">                     <head>Hr<supplied>.</supplied> <hi rendition="#aq"><persName ref=" http://d-nb.info/gnd/11865103X">Berthold Auerbach</persName></hi> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName><supplied>.</supplied></head><lb/>
 <space dim="vertical"/>                     <opener><salute>Höchst geehrter Freund,</salute></opener><lb/>
 <space dim="vertical"/>                     <p>Daß Sie das beifolgende Buch von mir freund-<lb/>
 lich aufnehmen werden, davon bin ich fest überzeugt.</p><lb/>

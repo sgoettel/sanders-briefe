@@ -202,7 +202,7 @@
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
-<body>                 <div type="letter" n="1">                     <head>Hr<supplied>.</supplied> <persName ref="http://d-nb.info/gnd/11865103X"><hi rendition="#aq"><choice><abbr>B.</abbr><expan>Berthold</expan></choice> Auerbach</hi></persName> in <placeName ref="http://www.geonames.org/6547383"><hi rendition="#aq">Berlin</hi></placeName>.</head><lb/>
+<body>                 <div type="letter" n="1">                     <head>Hr<supplied>.</supplied> <persName ref="http://d-nb.info/gnd/11865103X"><hi rendition="#aq"><choice><abbr>B.</abbr><expan>Berthold</expan></choice> Auerbach</hi></persName> in <placeName ref="http://www.geonames.org/2950159"><hi rendition="#aq">Berlin</hi></placeName>.</head><lb/>
 <space dim="vertical"/>                     <opener><salute>Innig verehrter Herr und Freund.</salute></opener><lb/>
 <space dim="vertical"/>                     <p>Indem ich Ihnen beifolgend ein Exemplar meines Handwörter-<lb/>
 buchs<note type="editorial"><bibl>Sanders, Daniel: Handwörterbuch der deutschen Sprache. Leipzig 1869.</bibl> <ref target="https://books.google.de/books?id=avE8AAAAcAAJ">Online verfügbar: GoogleBooks, abgerufen am 23.01.2019.</ref></note> zugehen lasse, bitte ich Sie, die kleine Gabe als ein Zeichen treu-<lb/>

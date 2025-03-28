@@ -193,7 +193,7 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1869-03-15"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/118539698">Glaßbrenner, Adolf</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1869-03-15"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/118539698">Glaßbrenner, Adolf</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text><body>
 <pb facs="#f0001" n="[1r]"/>
@@ -208,12 +208,12 @@ sie zu bewältigen selbst mir, der ich einigermaßen auf meine<lb/>
 Arbeitskraft trotzen darf, sehr schwer fällt und so habe ich deñ<lb/>
 – so gern ich einmal von der Arbeit rasten und mich erholen<lb/>
 und geistig anregen und erfrischen möchte – doch gar nicht<lb/>
-den Plan gehabt, nach <placeName ref="http://www.geonames.org/6547383">Berlin</placeName> zu kom̃en, sondern den lebhaften<lb/>
+den Plan gehabt, nach <placeName ref="http://www.geonames.org/2950159">Berlin</placeName> zu kom̃en, sondern den lebhaften<lb/>
 Wunsch danach vielmehr pflichtschuldigst zurückgedrängt. Was du<lb/>
 bei <hi rendition="#aq"><persName>Arnoldts</persName></hi> gehört hast, bezog sich also wohl nicht auf mich,<lb/>
 sondern wahrscheinlich auf <persName>Ida</persName>, die allerdings nicht bloß den<lb/>
 Wunsch, sondern auch die Absicht hatte und hat, in diesen<lb/>
-Jahr auf einige Wochen nach <placeName ref="http://www.geonames.org/6547383">Berlin</placeName> zu reisen, obgleich eben<lb/>
+Jahr auf einige Wochen nach <placeName ref="http://www.geonames.org/2950159">Berlin</placeName> zu reisen, obgleich eben<lb/>
 die Zeit noch gar Nichts bestim̃t ist.</p><lb/>
 <p>Brauche ich Dir zu sagen, wie lebhaft meine Sehnsucht<lb/>
 nach Euch schon ohnehin war und wie sie durch deinen lieb-<lb/>

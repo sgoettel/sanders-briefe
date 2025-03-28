@@ -198,11 +198,11 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1876-10-27"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1876-10-27"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
-<body>                 <div type="letter" n="1">                     <head>Hr<supplied>.</supplied> <hi rendition="#aq">Dr. <persName ref=" http://d-nb.info/gnd/11865103X">Berthold Auerbach</persName></hi> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName>.</head><lb/>
+<body>                 <div type="letter" n="1">                     <head>Hr<supplied>.</supplied> <hi rendition="#aq">Dr. <persName ref=" http://d-nb.info/gnd/11865103X">Berthold Auerbach</persName></hi> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>.</head><lb/>
 <space dim="vertical"/>                     <opener><salute>Höchst geehrter Freund,</salute></opener><lb/>
 <space dim="vertical"/>                     <p>Meine Besprechung<note type="editorial"><bibl>Sanders, Daniel: Die deutsche Rechtschreibung und die Berliner orthographische Konferenz. In: Dohm, Ernst et al. (Hg.): Der Salon für Literatur, Kunst und Gesellschaft. Leipzig 1857, S. 795–805, 941–948, 1087–1094.</bibl> <ref target="https://archive.org/details/bub_gb_BgQ1AAAAMAAJ"> Online verfügbar: Internet Archive, abgerufen am 18.02.2019.</ref></note> habe ich dem „Salon“<note type="editorial"><bibl>Der Salon für Literatur, Kunst und Gesellschaft. Herausgegeben von Ernst Dohm, Julius Rodenberg, Franz Hirsch, Hermann Tischler und A. H. Payne. Leipzig 1867–1890.</bibl></note> übersandt, in dessen nächstem<lb/>
 (Ende November erscheinend<del rendition="#s">en</del>) Heft Sie -, wie mir soeben <hi rendition="#aq">Dr<supplied>.</supplied> <persName ref="http://d-nb.info/gnd/11690416X">Franz Hirsch</persName></hi><lb/>
@@ -219,11 +219,11 @@ than, nicht um die Lehren der Schule mit dem in der Gesam̃theit des deut<suppli
 schen Volkes lebenden Sprachgefühl in Übereinstim̃ung zu bringen, son-<lb/>
 dern umgekehrt die Gesam̃theit durch das Gericht der phonetischen Schul-<lb/>
 vorschriften zu zwingen. Es scheint mir nun dringend geboten, daß<lb/>
-grade in der <placeName ref="http://www.geonames.org/6547383">Reichshauptstadt</placeName> dagegen auch unsere gemeinsamen<lb/>
+grade in der <placeName ref="http://www.geonames.org/2950159">Reichshauptstadt</placeName> dagegen auch unsere gemeinsamen<lb/>
 Anschauung, ich darf Sie getrost die Ansicht der großen Gesam̃theit<lb/>
 <fw type="catch" place="bottom">im</fw>
 <pb facs="#f0002" n="[1v]"/>
-im deutschen Volke neñen – daß diese Ansicht, sage ich, grade auch in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName> zum<lb/>
+im deutschen Volke neñen – daß diese Ansicht, sage ich, grade auch in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName> zum<lb/>
 entsprechenden öffentlichen Ausdruck gelange, damit nicht, das Schweigen als Ge<supplied>-</supplied><lb/>
 stimmung von den Gegnern gemißdeutet werden köñe. Sie, höchst verehrter Freund,<lb/>
 – zumal im Verein mit Mäñern wie <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/118569848">Lasker</persName></hi>, <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/118656961">Bamberger</persName></hi>, <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/118951009">Oppenheim</persName></hi> (denen<lb/>

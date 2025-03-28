@@ -190,11 +190,11 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName><date when="1880-03-01"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11886243X">D'Abernon, Edgar Vincent</persName><placeName ref="http://www.geonames.org/2643743">London</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/142684465">Löbell, Heinrich von</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName><date when="1880-03-01"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/11886243X">D'Abernon, Edgar Vincent</persName><placeName ref="http://www.geonames.org/2643743">London</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
-<body>              <div type="letter" n="1">                  <gap reason="insignificant"/>                  <head><foreign xml:lang="eng"><placeName ref="http://www.geonames.org/6547383">Berlin</placeName>. S.W<supplied>.</supplied> – Teltower <choice><abbr>Str<supplied>.</supplied></abbr><expan>Straße</expan></choice> 49 II – <date>March I, 1880</date>.</foreign></head><lb/>
+<body>              <div type="letter" n="1">                  <gap reason="insignificant"/>                  <head><foreign xml:lang="eng"><placeName ref="http://www.geonames.org/2950159">Berlin</placeName>. S.W<supplied>.</supplied> – Teltower <choice><abbr>Str<supplied>.</supplied></abbr><expan>Straße</expan></choice> 49 II – <date>March I, 1880</date>.</foreign></head><lb/>
 <opener><salute><foreign xml:lang="eng">My dear Sir!</foreign></salute></opener><lb/>
 <p><foreign xml:lang="eng">Hoping that you are returned lucky to <placeName ref="http://www.geonames.org/2643743">London</placeName><lb/>
 I send you in the mean time as this letter under<lb/>

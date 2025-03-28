@@ -203,7 +203,7 @@
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">ready</classCode>
 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">sanders-briefe</classCode>
 </textClass>
-<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1881-02-02"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/118570439">Lazarus, Moritz</persName><placeName ref="http://www.geonames.org/6547383">Berlin</placeName></correspAction></correspDesc></profileDesc>
+<correspDesc><correspAction type="sent"><persName ref="http://d-nb.info/gnd/119242044">Sanders, Daniel</persName><placeName ref="http://www.geonames.org/2825922/">Altstrelitz</placeName><date when="1881-02-02"/></correspAction><correspAction type="received"><persName ref="http://d-nb.info/gnd/118570439">Lazarus, Moritz</persName><placeName ref="http://www.geonames.org/2950159">Berlin</placeName></correspAction></correspDesc></profileDesc>
 </teiHeader>
 <text><body>
 <pb facs="#f0001" n="[1r]"/>
@@ -220,7 +220,7 @@ kaum in Eriñerung geblieben sein, daß ich Ihre per-<lb/>
 sönliche Bekañtschaft schon gesucht, als ich an die Ausar-<lb/>
 beitung meines Wörterbuchs gehen wollte. Damals<lb/>
 suchte ich Sie auf Anregung und Empfehlung der<lb/>
-inzwischen verstorbenen <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/118847104"><choice><abbr>Wilh.</abbr><expan>Wilhelm</expan></choice> Wolfsohn</persName></hi> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName> auf,<lb/>
+inzwischen verstorbenen <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/118847104"><choice><abbr>Wilh.</abbr><expan>Wilhelm</expan></choice> Wolfsohn</persName></hi> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName> auf,<lb/>
 fand Sie aber nicht und ein um Jahre späterer<lb/>
 zweiter Versuch war von ähnlichem Mißerfolg<lb/>
 begleitet, wie Ihnen vielleicht Prof. <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/118617583">Steinthal</persName></hi>, den<lb/>

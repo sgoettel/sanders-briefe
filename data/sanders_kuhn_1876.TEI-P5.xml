@@ -193,7 +193,7 @@
 </teiHeader>
 <text>
 <pb facs="#f0001" n="[1r]"/>
-<body>             <div type="letter" n="1">                  <head>Hr<supplied>.</supplied> Gymnasialdirektor Professor Dr. <persName ref="http://d-nb.info/gnd/116601825"><hi rendition="#aq"><choice><abbr>Ad.</abbr><expan>Adalbert</expan></choice> Kuhn</hi></persName> in <placeName ref="http://www.geonames.org/6547383">Berlin</placeName></head><lb/>
+<body>             <div type="letter" n="1">                  <head>Hr<supplied>.</supplied> Gymnasialdirektor Professor Dr. <persName ref="http://d-nb.info/gnd/116601825"><hi rendition="#aq"><choice><abbr>Ad.</abbr><expan>Adalbert</expan></choice> Kuhn</hi></persName> in <placeName ref="http://www.geonames.org/2950159">Berlin</placeName></head><lb/>
 <space dim="vertical"/>                       <opener><salute>Höchst geehrter Herr.</salute></opener><lb/>
 <space dim="vertical"/>                    <p>Durch das beifolgende Büchlein möchte ich mich freundlich<lb/>
 in Ihre Eriñerung zurückrufen. Begreiflicherweise habe ich<lb/>
